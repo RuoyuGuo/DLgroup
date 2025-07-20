@@ -1,5 +1,5 @@
 ---
-title: Members
+title: Students
 date: 2025-07-20
 
 type: landing

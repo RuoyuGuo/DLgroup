@@ -11,9 +11,7 @@ superuser: true
 
 # date, display sequence
 date: 202205
-user_groups:
-  - Students
-  - PhD
+user_groups: ["students", "PhD"]
 
 
 # Role/position
