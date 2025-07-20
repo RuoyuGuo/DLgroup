@@ -6,8 +6,8 @@ title: Ruoyu Guo
 first_name: Ruoyu
 last_name: Guo
 
-# Is this the primary user of the site?
-superuser: true
+# # Is this the primary user of the site?
+# superuser: true
 
 # date, display sequence
 date: 202205

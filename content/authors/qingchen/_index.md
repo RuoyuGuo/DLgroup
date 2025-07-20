@@ -7,7 +7,7 @@ first_name: Qingchen
 last_name: Tang
 
 # Is this the primary user of the site?
-superuser: true
+# superuser: true
 
 # date, display sequence
 date: 202502
