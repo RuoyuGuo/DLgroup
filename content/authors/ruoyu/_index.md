@@ -32,4 +32,4 @@ user_groups:
   - PhD
 ---
 
-This is Ruoyu GUo.
+This is Ruoyu Guo.

@@ -7,12 +7,30 @@ main:
   - name: News
     url: post
     weight: 10
+
   - name: Member
-    url: member
+    url: #
     weight: 20
+
+  - name: Faculty
+    url: /member/faculty/
+    parent: member
+    weight: 21
+
+  - name: Students
+    url: /member/students/
+    parent: member
+    weight: 22
+
+  - name: Alumni
+    url: /member/alumni/
+    parent: member
+    weight: 23
+
   - name: Publications
     url: publication
     weight: 30
+
   - name: Demo
     url: demo
     weight: 40
