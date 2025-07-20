@@ -6,8 +6,6 @@ title: Yang Song
 first_name: Yang
 last_name: Song
 
-# # Is this the primary user of the site?
-superuser: false
 
 # weight, display sequence
 weight: 0

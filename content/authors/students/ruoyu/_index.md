@@ -6,9 +6,6 @@ title: Ruoyu Guo
 first_name: Ruoyu
 last_name: Guo
 
-# # Is this the primary user of the site?
-superuser: false
-
 # date, display sequence
 date: 202205
 user_groups:

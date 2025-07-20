@@ -10,9 +10,6 @@ last_name: Pagnucco
 authors:
   - morri
 
-# Is this the primary user of the site?
-superuser: false
-
 # weight, display sequence
 weight: 1
 

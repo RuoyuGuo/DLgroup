@@ -6,9 +6,6 @@ title: Qingchen Tang
 first_name: Qingchen
 last_name: Tang
 
-# Is this the primary user of the site?
-superuser: false
-
 # date, display sequence
 date: 202502
 user_groups:
