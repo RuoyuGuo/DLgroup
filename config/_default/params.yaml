@@ -118,5 +118,5 @@ publications:
   citation_style: apa
 
 people:
-  folder: "members"
+  folder: "authors"
   nested: true
