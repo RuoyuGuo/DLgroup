@@ -14,17 +14,17 @@ main:
 
   - name: Faculty
     url: /member/faculty/
-    parent: member
+    parent: Member
     weight: 21
 
   - name: Students
     url: /member/students/
-    parent: member
+    parent: Member
     weight: 22
 
   - name: Alumni
     url: /member/alumni/
-    parent: member
+    parent: Member
     weight: 23
 
   - name: Publications
