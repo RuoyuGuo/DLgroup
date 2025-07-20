@@ -14,7 +14,7 @@ sections:
           - Faculty
           - Students
           - Alumni
-      sort_by: Params.last_name
+      sort_by: weight
       sort_ascending: true
     design:
       show_interests: false

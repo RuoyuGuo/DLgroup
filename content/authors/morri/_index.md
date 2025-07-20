@@ -13,6 +13,9 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+# weight, display sequence
+weight: 1
+
 # Role/position
 role: Professor & Deputy Dean (Education)
 

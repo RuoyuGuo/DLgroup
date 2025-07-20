@@ -9,6 +9,9 @@ last_name: Song
 # Is this the primary user of the site?
 superuser: true
 
+# weight, display sequence
+weight: 0
+
 # Role/position
 role: ARC Future Fellow & Scientia Associate Professor & Associate Head of School (Research)
 
