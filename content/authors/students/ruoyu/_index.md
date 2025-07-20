@@ -11,6 +11,10 @@ superuser: true
 
 # date, display sequence
 date: 202205
+user_groups:
+  - Students
+  - PhD
+
 
 # Role/position
 role: PhD Student
