@@ -120,3 +120,6 @@ publications:
 people:
   folder: "authors"
   nested: true
+
+disable_widgets:
+  - about
