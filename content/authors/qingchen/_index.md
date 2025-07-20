@@ -11,9 +11,12 @@ superuser: true
 
 # date, display sequence
 date: 202502
+user_groups:
+  - Students
+  - MPhil
 
 # Role/position
-role: MPhill Student
+role: MPhil Student
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,8 +31,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - MPhill
+
 ---
 
 This is Qingchen Tang.
