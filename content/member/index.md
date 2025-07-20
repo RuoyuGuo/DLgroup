@@ -1,6 +1,6 @@
 ---
 title: Members
-date: 2022-10-24
+date: 2025-07-20
 
 type: landing
 
@@ -12,8 +12,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Faculty
-          - Students
-          - Alumni
+          - PhD
       sort_by: Params.weight
       sort_ascending: true
     design:
