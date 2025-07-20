@@ -19,7 +19,6 @@ sections:
       show_role: true
       show_social: true
 
-sections:
   - block: people
     content:
       title: Our MPhill Students 
