@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Ruoyu Guo
+title: Qingchen Tang
 
 # Full Name (for SEO)
-first_name: Ruoyu
-last_name: Guo
+first_name: Qingchen
+last_name: Tang
 
 # Is this the primary user of the site?
 superuser: true
 
 # date, display sequence
-date: 202205
+date: 202502
 
 # Role/position
-role: PhD Student
+role: MPhill Student
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD
+  - MPhill
 ---
 
-This is Ruoyu Guo.
+This is Qingchen Tang.
