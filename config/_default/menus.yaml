@@ -8,23 +8,23 @@ main:
     url: post
     weight: 10
 
-  - name: Member
+  - name: Members
     url: #
     weight: 20
 
   - name: Faculty
-    url: /member/faculty/
-    parent: Member
+    url: /members/faculty/
+    parent: Members
     weight: 21
 
   - name: Students
-    url: /member/students/
-    parent: Member
+    url: /members/students/
+    parent: Members
     weight: 22
 
   - name: Alumni
-    url: /member/alumni/
-    parent: Member
+    url: /members/alumni/
+    parent: Members
     weight: 23
 
   - name: Publications
